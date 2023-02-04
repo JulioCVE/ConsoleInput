@@ -8,7 +8,8 @@ namespace ConsoleInput
 {
     public class Cuadrado : Figura
     {
-        private decimal _lado;
+        private decimal _lado; 
+        //hola
         public Cuadrado(decimal lado)
         {
             _lado = lado;
