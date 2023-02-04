@@ -10,6 +10,7 @@ namespace ConsoleInput
     {
         private decimal _lado; 
         //hola
+        //Que onda
         public Cuadrado(decimal lado)
         {
             _lado = lado;
